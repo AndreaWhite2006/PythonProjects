@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Rock Paper Scissors",
+    "\\Rock Paper Scissors\\Rock Paper Scissors"
   ],
+  "SelectedNode": "\\Module1.py",
   "PreviewInSolutionExplorer": false
 }

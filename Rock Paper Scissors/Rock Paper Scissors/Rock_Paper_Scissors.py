@@ -1,5 +1,3 @@
-from tkinter import END
-
 
 def haveTurn(Player):
     print("Player" + Player)

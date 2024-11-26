@@ -3,7 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\aw10g24\\source\\repos\\AndreaWhite2006\\PythonProjects\\Rock Paper Scissors\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42B0E80A-5A7D-4E62-9650-306EFA736E4D}|Rock Paper Scissors\\Rock Paper Scissors.pyproj|C:\\Users\\aw10g24\\source\\repos\\AndreaWhite2006\\PythonProjects\\Rock Paper Scissors\\Rock Paper Scissors\\Rock_Paper_Scissors.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aw10g24\\Source\\Repos\\AndreaWhite2006\\PythonProjects\\Module1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B0E80A-5A7D-4E62-9650-306EFA736E4D}|Rock Paper Scissors\\Rock Paper Scissors.pyproj|C:\\Users\\aw10g24\\Source\\Repos\\AndreaWhite2006\\PythonProjects\\Rock Paper Scissors\\Rock Paper Scissors\\Rock_Paper_Scissors.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{42B0E80A-5A7D-4E62-9650-306EFA736E4D}|Rock Paper Scissors\\Rock Paper Scissors.pyproj|solutionrelative:Rock Paper Scissors\\Rock_Paper_Scissors.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -18,17 +21,30 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Module1.py",
+              "DocumentMoniker": "C:\\Users\\aw10g24\\Source\\Repos\\AndreaWhite2006\\PythonProjects\\Module1.py",
+              "RelativeDocumentMoniker": "..\\Module1.py",
+              "ToolTip": "C:\\Users\\aw10g24\\Source\\Repos\\AndreaWhite2006\\PythonProjects\\Module1.py",
+              "RelativeToolTip": "..\\Module1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-26T13:22:16.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Rock_Paper_Scissors.py",
               "DocumentMoniker": "C:\\Users\\aw10g24\\source\\repos\\AndreaWhite2006\\PythonProjects\\Rock Paper Scissors\\Rock Paper Scissors\\Rock_Paper_Scissors.py",
               "RelativeDocumentMoniker": "Rock Paper Scissors\\Rock_Paper_Scissors.py",
-              "ToolTip": "C:\\Users\\aw10g24\\source\\repos\\AndreaWhite2006\\PythonProjects\\Rock Paper Scissors\\Rock Paper Scissors\\Rock_Paper_Scissors.py*",
-              "RelativeToolTip": "Rock Paper Scissors\\Rock_Paper_Scissors.py*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\aw10g24\\source\\repos\\AndreaWhite2006\\PythonProjects\\Rock Paper Scissors\\Rock Paper Scissors\\Rock_Paper_Scissors.py",
+              "RelativeToolTip": "Rock Paper Scissors\\Rock_Paper_Scissors.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-11-26T12:56:49.313Z",
               "EditorCaption": ""
