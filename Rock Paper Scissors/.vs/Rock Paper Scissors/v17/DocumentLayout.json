@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aw10g24\\source\\repos\\AndreaWhite2006\\PythonProjects\\Rock Paper Scissors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42B0E80A-5A7D-4E62-9650-306EFA736E4D}|Rock Paper Scissors\\Rock Paper Scissors.pyproj|C:\\Users\\aw10g24\\source\\repos\\AndreaWhite2006\\PythonProjects\\Rock Paper Scissors\\Rock Paper Scissors\\Rock_Paper_Scissors.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{42B0E80A-5A7D-4E62-9650-306EFA736E4D}|Rock Paper Scissors\\Rock Paper Scissors.pyproj|solutionrelative:Rock Paper Scissors\\Rock_Paper_Scissors.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rock_Paper_Scissors.py",
+              "DocumentMoniker": "C:\\Users\\aw10g24\\source\\repos\\AndreaWhite2006\\PythonProjects\\Rock Paper Scissors\\Rock Paper Scissors\\Rock_Paper_Scissors.py",
+              "RelativeDocumentMoniker": "Rock Paper Scissors\\Rock_Paper_Scissors.py",
+              "ToolTip": "C:\\Users\\aw10g24\\source\\repos\\AndreaWhite2006\\PythonProjects\\Rock Paper Scissors\\Rock Paper Scissors\\Rock_Paper_Scissors.py",
+              "RelativeToolTip": "Rock Paper Scissors\\Rock_Paper_Scissors.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-26T12:56:49.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
